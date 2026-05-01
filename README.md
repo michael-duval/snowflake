@@ -1,5 +1,5 @@
 # snowflake
-Snowflake-style 64-bit IDs for Go.
+Snowflake-style 64-bit IDs for Go
 
 ## Status
 
